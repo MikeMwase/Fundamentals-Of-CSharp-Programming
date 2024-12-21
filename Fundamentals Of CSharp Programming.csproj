@@ -46,6 +46,11 @@
     <Compile Include="Classes\Dictionaries, HashTables And Sets\StudentsExample.cs" />
     <Compile Include="Classes\Dictionaries, HashTables And Sets\WordCountingWithSortedDictionary.cs" />
     <Compile Include="Classes\Linear Data Structures\CustomArrayList.cs" />
+    <Compile Include="Classes\Trees And Graphs\BinaryTree.cs" />
+    <Compile Include="Classes\Trees And Graphs\Graph.cs" />
+    <Compile Include="Classes\Trees And Graphs\OrderedBinarySearchTree.cs" />
+    <Compile Include="Classes\Trees And Graphs\TraverseDirectoryBFS.cs" />
+    <Compile Include="Classes\Trees And Graphs\TraverseDirectoryDFS.cs" />
     <Compile Include="Classes\Trees And Graphs\Tree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
